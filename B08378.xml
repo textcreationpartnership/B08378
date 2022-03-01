@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the objections made to the surgeons bill</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660-uuuu?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08378</idno>
+            <idno type="STC">Wing A3428A</idno>
+            <idno type="STC">ESTC R172366</idno>
+            <idno type="EEBO-CITATION">64550882</idno>
+            <idno type="OCLC">ocm 64550882</idno>
+            <idno type="VID">184331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184331)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2858:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the objections made to the surgeons bill</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>after 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medical laws and legislation --  England --  Early works to 1800.</term>
+               <term>Medicine --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184331:1" rendition="simple:additions"/>
+            <head>An Anſwer to the Objections Made to the SURGEONS BILL.</head>
+            <p>THat the Surgeons of <hi>London</hi> in the Reign of <hi>Hen.</hi> VII. Examined ſuch as were admitted to Practiſe Surgery, and choſe Mr. <hi>John Smith,</hi> Dr. in Phyſick, an Examiner with them, who was preſent at ſuch Ex<g ref="char:EOLhyphen"/>aminations, appears by an Old Manuſcript formerly belonging to Sir <hi>Robert Cotton,</hi> and now ready to be produced. It appears alſo by the ſame Manuſcript, that the Perſons Examined and Approved, were admitted to practiſe in the directive as well as the operative part.</p>
+            <p>That the examined and approved Surgeons of <hi>London</hi> examined the other Sur<g ref="char:EOLhyphen"/>geons, is further manifeſt by the Statute of <hi>H.</hi> VIII. <hi>An.</hi> 3. <hi>C.</hi> 11. By the <hi>32d</hi> of <hi>H.</hi> VIII. <hi>C.</hi> 42. at their Incorporation with the Barbers, all former Priviledges were con<g ref="char:EOLhyphen"/>firmed to them: But the Surgeons not permitted to ſhave, becauſe they took into their Houſes ſuch as had the <hi>French Pox</hi> and <hi>Plague,</hi> which are not Cured by Plaiſters only.</p>
+            <p>By the <hi>34th</hi> and <hi>35th</hi> of <hi>H. VIIIth Cap.</hi> 8. all Perſons having Skill in Herbs, Oyntments, <hi>&amp;c.</hi> are impowred, not only to Cure outward Sores, but alſo to give Drinks in Caſes of Stone, Strangury <hi>&amp;c,</hi> And this Act was made becauſe the Sur<g ref="char:EOLhyphen"/>geons had hindred many Perſons from doing it, as appears by the Recital: From which it is ſtrongly to be imply'd, That the Surgeons had a Right to give ſuch Drinks: Otherwiſe there had been no colour for their Pretence to reſtrain others from it.</p>
+            <p>'Till the firſt year of King <hi>J.</hi> the <hi>1ſt.</hi> the Surgeons uſed Surgery in all its parts, without any interruption from the College. And the ſaid K. <hi>James</hi> the <hi>1ſt.</hi> in the <hi>2d</hi> year of his Reign, confirm'd all former Priviledges unto them; and further, by Charter impowred them to give Internal as well as External Medicines, and to Ex<g ref="char:EOLhyphen"/>amine all that uſe Surgery: And the Uſage has been in all times agreeable to it, and lookt upon as an Eſſential part of the Practice of Surgery.</p>
+            <p>Whereas the College do confidently affirm, that the Surgeons attempts to procure a Patent from King <hi>Charles</hi> the <hi>1ſt.</hi> for giving Internal Medicines in Caſes of Surgery was in vain, and that the Lord <hi>Coventry</hi> refuſed to Sign the ſame, is not ſo: For it is apparent that the Surgeons have that Patent, in which he not only confirms the aforementioned Priviledges but grants to them many others; amongſt which, that all Perſons uſing Surgery within the City of <hi>London</hi> and 7 Miles thereof, ſhould be Examined by four or more of the ten Examiners of the ſame Company, in the pre<g ref="char:EOLhyphen"/>ſence of two or more of the Governours, which method continues to this day.</p>
+            <p>By vertue of the <hi>32th H.</hi> VIII. the Phyſicians of <hi>London</hi> were impowered to uſe Surgery, but not to Examine Surgeons.</p>
+            <p>That the Surgeons themſelves do conſtantly chuſe who of the College to read their Anatomical Lectures is true, (but they are not Elected by the College, as they wold infer,) and four of their own Members to diſſect the Body for their own improvement in that Art; which if the College had been as careful to do, they would not have diſcontinued the Lectures which Dr. <hi>Harvey</hi> left a conſiderable Sum of Money to maintain.</p>
+            <p>Whereas the Phyſicians affirm they were a Corporation Eighteen years at leaſt before the Surgeons, the contrary is manifeſt: For the Surgeons were a Company in <hi>Henry</hi> the <hi>VIIth</hi>'s time, as appears by the Arms given them by the ſaid King, and by the Preamble of the <hi>5th</hi> of <hi>Hen.</hi> VIII. <hi>Cap.</hi> 6. and 32 <hi>Hen.</hi> VIII. <hi>Cap.</hi> 42.</p>
+            <p>Whereas the Phyſicians do alledge, that the Surgeons met with great diſap<g ref="char:EOLhyphen"/>pointments in the Court of King <hi>James</hi> the <hi>1ſt.</hi> the contrary is manifeſt, by his Gracious Charter above mentioned.</p>
+            <p>True it is, That ſuch an Order as is mentioned by the College, dated the <hi>13th</hi> of <hi>June,</hi> 1632. was obtained, and concealed for about three years, but upon Petition of the Surgeons, and a Hearing before the Court of Star-Chamber, it was diſannulled.</p>
+            <p>True it is, That there was a Hearing before the late Lord Chancellour in the <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="2" facs="tcp:184331:2" rendition="simple:additions"/>
+            <p>When the College lately offer'd their Bill to the Houſe of Lords, the Surgeons Petition againſt it did not find ſo little favour as they affirm, for thereupon, their Arbitrary Clauſe was ſtruck out of the Bill; of which Bill a Copy is ready to be produced.</p>
+            <p>The Phyſicians pretend to object to the Bill; That under colour of Caſes of Sur<g ref="char:EOLhyphen"/>gery, it is intended to bring in all Caſes.</p>
+            <p>That is but a meer Cavil, for every body knows what is meant by Caſes of Sur<g ref="char:EOLhyphen"/>gery: And if it be thought that there is any Weight in that Objection, the Sur<g ref="char:EOLhyphen"/>geons are content it ſhould be more plainly expreſſed, if it can be.</p>
+            <p>Another Objection is, Thay the Surgeons intend to let themſelves into the Gene<g ref="char:EOLhyphen"/>ral Practice of Phyſick, by deſiring that in all Caſes it may be lawful for the Phy<g ref="char:EOLhyphen"/>ſicians to conſult with them.</p>
+            <p>The Anſwer to this is plain—They only deſire that the College may not reſtrain Phyſicians from Conſulting in proper Caſes with Surgeons: Which the College of late has pretended to do by By-Laws which they have made. The Bill does wholly referr it to the Judgment of the Phyſician, whether he will con<g ref="char:EOLhyphen"/>ſult with them, or, in what Caſes he pleaſes to do ſo.</p>
+            <p>In Anſwer to that part of the Bill, againſt which the Phyſicians Object, that the Surgeons ought not to examin Surgeons: Nothing more is deſired in that part of it, than what is already practiſed, except only, that whereas now the Biſhop of <hi>London,</hi> and Dean of St. <hi>Pauls,</hi> do Licenſe upon a Certificate of any four Surgeons (in which they may eaſily be impoſed upon) the Certifi<g ref="char:EOLhyphen"/>cate by the Bill is to be from the Examiners of the Company: Whereby Abuſes will be prevented.</p>
+            <p>The Phyſicians ſet down three Reaſons, as inſiſted upon by the Surgeons, for the Bill, which they pretend to except to but without cauſe: For as to the</p>
+            <p>
+               <hi>Firſt,</hi> That they have the like power already, of giving Internal Medicines in Caſes of Surgery; it is moſt true, that ſuch power is granted them expreſly in the Charter of K. <hi>James 1ſt.</hi> and confirmed to them by other Charters.</p>
+            <p>The Surgeons ſecond Reaſon mention'd is, That theſe powers are neceſſary to fit them for the King's Service, which is moſt apparently true, for otherwiſe they cannot be capable of ſerving in the Royal Fleets, or in Merchant Ships, or in the King's Armies, and the Surgeons are allowed this liberty in all other Countries in <hi>Europe,</hi> and here, except within ſeven Miles of <hi>London.</hi>
+            </p>
+            <p>The Truth of the third Reaſon for the Surgeons, That, till of late, Phyſicians have conſulted with them: Is known to moſt Gentlemen, and cannot be denyed by the Phyſicians themſelves.</p>
+            <p>As to what the Phyſicians pretend to find in their Annals, That ſome few Phy<g ref="char:EOLhyphen"/>ſicians have ſometimes gone in the Fleets, it is true; but they did not go as Phy<g ref="char:EOLhyphen"/>ſicians to the Fleet, or to take care of the Sea-Men, but to attend the perſon of ſome particular great Officer; and it is as true, that there is but one Phyſician in the Eſtabliſhment of the whole Army, whereas there is a Surgeon and a Mate to every Regiment.</p>
+            <p>As to the inſinuation, That the giving this liberty to the Surgeons, will be a pre<g ref="char:EOLhyphen"/>judice to the Univerſities; it is but a meer pretence: For it is deſired only in Caſes of Surgery, which will not affect them. But the Phyſicians admitting more than forty Foreign Doctors, and giving them place before the Doctors of either of our Univerſities, and the general Licenſes to practice Phyſick, which the College does frequently give to perſons who never were of any Univerſity, if they will pay Fees, Gratuities, and Quarterage-Money, as the College thinks fit to demand, is a great detriment to the Univerſities, and a diſcouragement to the ſtudy of Phyſick there.</p>
+            <p>Whereas the Phyſicians alledge, they are ſo far from diſcouraging the Surgeons, that they never denyed any who applyed to them for a Licenſe to practice, Pro<g ref="char:EOLhyphen"/>vided they gave any Teſtimony of their fitneſs; the contrary is ſo manifeſt, that they refuſed to Licenſe Mr. <hi>Coatſworth,</hi> the laſt perſon of the Surgeons Company who had a Licenſe from them, till he had procured himſelf to be diſcharged of the Company.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:184331:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
